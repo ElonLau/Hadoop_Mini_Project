@@ -10,13 +10,13 @@ year of the car.
 
 # How to Reproduce
  
- - follow these instructions to: https://www.youtube.com/watch?v=735yx2Eak48&ab_channel=BinodSumanAcademy 
+- follow these instructions to: https://www.youtube.com/watch?v=735yx2Eak48&ab_channel=BinodSumanAcademy 
     <br/>
 1. install Oracle VM VirtualBox
 2. install HortonWorks Data Platform (HDP) on Hortonworks Sandbox
 3. setup accounts to use HDP on VirtualBox
-<br/>
- - HDFS interface - http://127.0.0.1:8080/#/login
+
+- HDFS interface - http://127.0.0.1:8080/#/login
     <br/>
 1. login and go to Files View
 2. create a folder for this project
