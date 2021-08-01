@@ -34,3 +34,4 @@ year of the car.
 4. create an empty output folder
 5. run the sh file ($ sh automobile-mr.sh)
 6. check the output folder in the HDFS interface and see the 2 output subfolders are created
+<br/>
