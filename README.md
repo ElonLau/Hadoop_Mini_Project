@@ -9,17 +9,24 @@ write a MapReduce program to produce a report of the total number of accidents p
 year of the car.
 
 # How to Reproduce
-    - https://www.youtube.com/watch?v=735yx2Eak48&ab_channel=BinodSumanAcademy - follow these instructions to:
+    - follow these instructions to: https://www.youtube.com/watch?v=735yx2Eak48&ab_channel=BinodSumanAcademy 
+    
 1. install Oracle VM VirtualBox
 2. install HortonWorks Data Platform (HDP) on Hortonworks Sandbox
 3. setup accounts to use HDP on VirtualBox
+
     - HDFS interface - http://127.0.0.1:8080/#/login
+    
 1. login and go to Files View
 2. create a folder for this project
 3. in the project folder:
 4. create an input folder and upload data.csv there
 5. create an empty output folder
+
+
     - Sandbox command line - http://127.0.0.1:4200/
+
+
 1. login and create a project folder with the same name as above
 2. add the 4 python and 1 sh files here
 3. create an input folder and add the data.csv file there
