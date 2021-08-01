@@ -28,10 +28,10 @@ year of the car.
 - Sandbox command line - http://127.0.0.1:4200/
 
 <br/>
-1. login and create a project folder with the same name as above
-2. add the 4 python and 1 sh files here
-3. create an input folder and add the data.csv file there
-4. create an empty output folder
-5. run the sh file ($ sh automobile-mr.sh)
-6. check the output folder in the HDFS interface and see the 2 output subfolders are created
+1. login and create a project folder with the same name as above\
+2. add the 4 python and 1 sh files here\
+3. create an input folder and add the data.csv file there\
+4. create an empty output folder\
+5. run the sh file ($ sh automobile-mr.sh)\
+6. check the output folder in the HDFS interface and see the 2 output subfolders are created\
 <br/>
